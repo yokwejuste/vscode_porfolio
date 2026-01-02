@@ -1,8 +1,6 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 .history/
 .idea/
-.idea_modules/
 .idea_modules/
 
 # ignored files for react
@@ -22,20 +20,12 @@ coverage/
 
 
 # dependencies
-
-# misc
-=======
-=======
->>>>>>> de12965 (feat: ignored files added)
-# react ignored files
 build/
 coverage/
 node_modules/
 npm-debug.log
 yarn-error.log
 yarn-debug.log
-yarn.lock
-package-lock.json
 .DS_Store
 .env
 .env.local
@@ -52,6 +42,10 @@ dist/
 .eslintcache
 .pnp.*
 .pnp.js
+
+# Vite
+dist-ssr
+*.local
 .idea/
 .history/
 .vscode/

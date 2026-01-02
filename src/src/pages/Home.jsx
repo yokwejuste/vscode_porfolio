@@ -7,7 +7,7 @@ import "../styles/Home.css";
 import profile_image from "../images/img-yokwejuste.png";
 import { FiDownload } from "react-icons/fi";
 import MenuMobile from "../components/MenuMobile";
-import Typical from "react-typical";
+import { TypeAnimation } from "react-type-animation";
 
 function Home() {
   return (
@@ -26,8 +26,8 @@ function Home() {
               <h1>
                 Steve Yonkeu <span className="span">{"/>"}</span>{" "}
               </h1>
-              <Typical
-                steps={[
+              <TypeAnimation
+                sequence={[
                   "Front-End Developer",
                   1000,
                   "Full stack Web developer",
@@ -35,9 +35,9 @@ function Home() {
                   "Backend and API lover",
                   1000,
                 ]}
-                loop={Infinity}
-                l
                 wrapper="h2"
+                speed={50}
+                repeat={Infinity}
               />
               <a
                 href="https://bit.ly/Yokwejuste-CV"

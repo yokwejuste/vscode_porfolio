@@ -14,16 +14,6 @@
   color: var(--white-100);
 }
 
-/* .title-about:first-of-type:before {
-  content: '<h1>';
-  font-family: 'La Belle Aurore',cursive;
-  color: #515152;
-  font-size: 18px;
-  position: absolute;
-  margin-top: -1rem;
-  left: -2rem;
-} */
-
 .iconCloud-container {
   width: 450px;
   margin-top: 50px;
