@@ -1,5 +1,4 @@
 import React from "react";
-import "../styles/Header.css";
 import MenuBar from "../components/MenuBar";
 import react_icon from "../images/react_icon.svg";
 import js_icon from "../images/js_icon.svg";
@@ -11,8 +10,8 @@ import markdown_icon from "../images/markdown.png";
 
 function Header() {
   return (
-    <header className="header-container">
-      <nav className="nav-container">
+    <header className="bg-[var(--bg-secondary)] dark:bg-[#1F2428] h-9 fixed top-10 w-screen left-[17.5rem] z-[1] border-b border-[var(--border-color)] dark:border-[#2D333B] max-[1150px]:left-0">
+      <nav className="flex">
         <MenuBar icon={react_icon} name="home.jsx" path="/" />
         <MenuBar icon={html_icon} name="about.html" path="/about" />
         <MenuBar icon={js_icon} name="projects.js" path="/projects" />

@@ -16,7 +16,7 @@
 }
 
 .main-container {
-  background-color: var(--gray-400);
+  background-color: var(--bg-primary);
   width: calc(100vw - 17.5rem);
   margin-left: 17.5rem;
   overflow-x: hidden;
@@ -32,7 +32,7 @@
 }
 
 h1 {
-  color: var(--white-100);
+  color: var(--text-primary);
 }
 
 .App {
@@ -69,6 +69,7 @@ h1 {
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
@@ -89,18 +90,20 @@ h1 {
     top: 41px;
     position: fixed;
     right: 10px;
-    background-color: var(--gray-500);
+    background-color: var(--bg-secondary);
     border: none;
     outline: none;
     height: 30px;
     display: block;
     z-index: 1000;
   }
-  
-  .line-1 , .line-2 , .line-3 {
+
+  .line-1,
+  .line-2,
+  .line-3 {
     width: 30px;
     height: 2px;
-    background-color: var(--white-100);
+    background-color: var(--text-primary);
     margin: 7px;
     transition: all 0.3s;
   }

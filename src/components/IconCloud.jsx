@@ -60,7 +60,7 @@ const iconSlugs = [
 const Componente = () => {
   const icons = useIcons(iconSlugs);
   return (
-    <div className="iconCloud-container">
+    <div className="w-[450px] mt-[50px] max-[1090px]:w-[350px] max-[1090px]:mb-[70px]">
       <Cloud options={tagCanvasOptions}>
         {icons}
       </Cloud>
