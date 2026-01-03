@@ -4,9 +4,9 @@
 [![Vite](https://img.shields.io/badge/Vite-Latest-646CFF?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.x-38B2AC?style=flat&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/yokw3just3/yokw3just3.github.io?style=flat&logo=github)](https://github.com/yokw3just3/yokw3just3.github.io/stargazers)
-[![GitHub Forks](https://img.shields.io/github/forks/yokw3just3/yokw3just3.github.io?style=flat&logo=github)](https://github.com/yokw3just3/yokw3just3.github.io/network/members)
-[![GitHub Issues](https://img.shields.io/github/issues/yokw3just3/yokw3just3.github.io?style=flat&logo=github)](https://github.com/yokw3just3/yokw3just3.github.io/issues)
+[![GitHub Stars](https://img.shields.io/github/stars/yokwejuste/vscode_porfolio?style=flat&logo=github)](https://github.com/yokwejuste/vscode_porfolio/stargazers)
+[![GitHub Forks](https://img.shields.io/github/forks/yokwejuste/vscode_porfolio?style=flat&logo=github)](https://github.com/yokwejuste/vscode_porfolio/network/members)
+[![GitHub Issues](https://img.shields.io/github/issues/yokwejuste/vscode_porfolio?style=flat&logo=github)](https://github.com/yokwejuste/vscode_porfolio/issues)
 [![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=flat&logo=vercel)](https://yokwejuste.me)
 
 A modern, interactive developer portfolio designed to resemble Visual Studio Code. Built with React and styled with Tailwind CSS, this portfolio provides a unique and engaging way to showcase your projects, skills, and experience.
@@ -43,8 +43,8 @@ Before you begin, ensure you have the following installed:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yokw3just3/yokw3just3.github.io.git
-cd yokw3just3.github.io
+git clone https://github.com/yokwejuste/vscode_porfolio.git
+cd vscode_porfolio
 ```
 
 2. Install dependencies:
@@ -225,6 +225,6 @@ This project is open source and available under the MIT License.
 
 Steve Yonkeu - [LinkedIn](https://www.linkedin.com/in/yokwejuste/)
 
-Project Link: [https://github.com/yokw3just3/yokw3just3.github.io](https://github.com/yokw3just3/yokw3just3.github.io)
+Project Link: [https://github.com/yokwejuste/vscode_porfolio](https://github.com/yokwejuste/vscode_porfolio)
 
 Live Demo: [https://yokwejuste.me](https://yokwejuste.me)
